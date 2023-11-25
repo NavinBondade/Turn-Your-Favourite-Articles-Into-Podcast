@@ -14,7 +14,7 @@
   <li>Streamlit</li>
 </ul>
 <h2>Methodology</h2>
-<p>The AI system is divided into two sections: the first is web scrapping, and the other is transforming the web data into a podcast. Web scraping, i.e., extracting the article from the web, is done using the Trafilatura library. Once all information is gathered and filtered, it is broken down into individual sentences. This process is essential to overcome the context window problem of the mode. The model processes the individual sentences and transforms them into an entire podcast. The user also has the choice to select whether he wants to listen to the podcast in a male or female voice.</p>
+<p>The AI system is divided into two sections: the first is web scrapping, and the other is transforming the web data into a podcast. Web scraping, i.e., extracting the article from the web, is done using the Trafilatura library. Once all data is gathered and filtered, it is broken down into individual sentences. This process is essential to overcome the context window problem of the mode. The model processes the individual sentences and transforms them into an entire podcast. The user also has the choice to select whether he wants to listen to the podcast in a male or female voice.</p>
 <h2>BARK</h2>
 <p align="center">
 <img src="https://the-decoder.com/wp-content/uploads/2023/04/dog_headphones_bark_audio_ai_midjourney.png">
