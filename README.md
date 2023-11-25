@@ -17,7 +17,7 @@
 <p>The AI system is divided into two sections: the first is web scrapping, and the other is transforming the web information into a podcast. Web scraping, i.e., extracting the article from the web, is done using the Trafilatura library. Once all information is gathered, it is broken down into individual sentences. This process is essential to overcome the context window problem of the mode. The model processes the individual sentences and transforms them into an entire podcast. The user also has the choice to select whether he wants to listen to the podcast in a male or female voice.</p>
 <h2>BARK</h2>
 <p align="center">
-<img src="https://tjzk.replicate.delivery/models_models_cover_image/9fbbe7c2-beb0-4caa-bd59-647dd7eeee6b/fofr_dog.jpg">
+<img src="https://the-decoder.com/wp-content/uploads/2023/04/dog_headphones_bark_audio_ai_midjourney.png">
 </p>
 <p>Bark is a transformer-based text-to-audio model created by Suno. Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying.</p>
 <h2>Demo Video</h2>
