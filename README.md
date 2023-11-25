@@ -6,7 +6,11 @@
 </p>
 <h2>Libraries Used</h2>
 <ul>
-  <li>LangChain</li>
-  <li>Hugging Face</li>
+  <li>Bark</li>
+  <li>Scipy</li>
+  <li>NLTK</li>
+  <li>Numpy</li>
+  <li>Trafilatura</li>
   <li>Streamlit</li>
+
 </ul>
