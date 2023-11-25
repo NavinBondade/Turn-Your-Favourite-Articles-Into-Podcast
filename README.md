@@ -1,4 +1,4 @@
-# Turn Your Favourite Article Into Podcast With Human Like Voice 
+# Turn Your Favourite Article Into Podcast Having Human Like Voice 
 <p align="center">
 <img src="https://media.wired.com/photos/6435f92f13021b2cf16d62ab/16:9/w_2400,h_1350,c_limit/AI-Podcast-GettyImages-1131242410.jpg">
 </p>
