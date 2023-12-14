@@ -27,3 +27,4 @@ https://github.com/NavinBondade/Turn-Your-Favourite-Articles-Into-Podcast/assets
 
 
 <h2>Conclusion</h2>
+<p>In this project, I created an AI system that transforms any article into a podcast, having a realistic human voice and engaging narration. The user only has to provide the article's URL, and the system will generate a podcast version of the article using the Bark model. Users also have the option to choose different male and female voices. </p>
