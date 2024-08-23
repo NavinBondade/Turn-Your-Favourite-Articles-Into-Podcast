@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://media.wired.com/photos/6435f92f13021b2cf16d62ab/16:9/w_2400,h_1350,c_limit/AI-Podcast-GettyImages-1131242410.jpg">
 </p>
-<p>Reading is not everyone's hobby. It is not something everyone likes to do, but to gain knowledge through articles and books, we often sit and read. Reading also requires a quiet and relaxed environment, which is not always possible. This project helps to overcome all these limitations. Here, I have built an AI system that transforms your favorite article into an exciting podcast with a human-like voice. You can listen to this podcast anytime and anywhere, and if you are in a hurry, you can also increase the playback speed to save time.
+<p>In this project, I developed an advanced AI system designed to transform written articles into engaging podcasts with a natural, human-like voice. Recognizing that reading is not everyone’s preferred method of consuming information, and that it often requires a quiet and relaxed environment, this system offers a convenient alternative. It allows users to effortlessly convert their favorite articles into audio format, making it possible to gain knowledge while on the go. Whether you’re commuting, exercising, or multitasking, you can listen to these podcasts at your convenience. Additionally, for those pressed for time, the system includes an option to increase the playback speed, ensuring that users can efficiently manage their time while staying informed.
 </p>
 <h2>Libraries Used</h2>
 <ul>
@@ -14,7 +14,8 @@
   <li>Streamlit</li>
 </ul>
 <h2>Methodology</h2>
-<p>The AI system is divided into two sections: the first is web scrapping, and the other is transforming the web data into a podcast. Web scraping, i.e., extracting the article from the web, is done using the Trafilatura library. Once all data is gathered and filtered, it is broken down into individual sentences. This process is essential to overcome the context window problem of the mode. The model processes the individual sentences and transforms them into an entire podcast. The user also has the choice to select whether he wants to listen to the podcast in a male or female voice.</p>
+<p>The AI system I developed is structured into two key components: web scraping and podcast generation. The web scraping process, which involves extracting article content from the web, is efficiently handled using the Trafilatura library. This robust tool ensures that all relevant data is gathered and meticulously filtered. To address the model's context window limitations, the extracted content is segmented into individual sentences. This segmentation is crucial for accurate processing and seamless transformation into audio. Once the data is processed, the system assembles the sentences into a coherent and engaging podcast. Additionally, to enhance user experience, the system offers customization options, allowing users to choose between a male or female voice for their podcast, ensuring a personalized and enjoyable listening experience.
+</p>
 <h2>BARK</h2>
 <p align="center">
 <img src="https://the-decoder.com/wp-content/uploads/2023/04/dog_headphones_bark_audio_ai_midjourney.png">
