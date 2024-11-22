@@ -1,6 +1,6 @@
 # Transform Your Favourite Article Into Podcast
 <p align="center">
-<img src="https://media.wired.com/photos/6435f92f13021b2cf16d62ab/16:9/w_2400,h_1350,c_limit/AI-Podcast-GettyImages-1131242410.jpg">
+<img src="https://media.wired.com/photos/6435f92f13021b2cf16d62ab/16:9/w_2400,h_1350,c_limit/AI-Podcast-GettyImages-1131242410.jpg">  
 </p>
 <p>In this project, I developed an advanced AI system designed to transform written articles into engaging podcasts with a natural, human-like voice. Recognizing that reading is not everyone’s preferred method of consuming information, and that it often requires a quiet and relaxed environment, this system offers a convenient alternative. It allows users to effortlessly convert their favorite articles into audio format, making it possible to gain knowledge while on the go. Whether you’re commuting, exercising, or multitasking, you can listen to these podcasts at your convenience. Additionally, for those pressed for time, the system includes an option to increase the playback speed, ensuring that users can efficiently manage their time while staying informed.
 </p>
